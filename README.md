@@ -10,8 +10,8 @@ I'm currently learning HTML, CSS and JavaScript through structured/guided learni
 
 ## 🔧 Technologies & Tools:
 
-- Languages: [HTML, CSS, JavaScript]
-- Tools: [Git, GitHub, VS Code]
+- Languages: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
 
 ## 📫 Get in Touch with Me:
 
