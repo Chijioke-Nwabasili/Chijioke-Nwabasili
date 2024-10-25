@@ -4,7 +4,7 @@ This is my GitHub profile, an expanse where i showcase my coding projects.
 
 ## About Me:
 
-My name is Chijioke Nwabasili. I'm an aspiring Front-end Web Developer with a strong passion for creating beautiful and functional web experiences. My journey into web development began with a curiosity about how websites work and a desire to bring my creative ideas to life. 
+My name is Chijioke Nwabasili. I'm an aspiring Front-end Web Developer with a strong passion for creating beautiful and functional web experiences. My journey into web development began with a curiosity about how websites work and a desire to bring my creative ideas to life. I also do enjoy listening to Music in my relaxation time.
 
 I'm currently learning HTML, CSS and JavaScript through structured/guided learning resources and project-based challenges. My goal is to continuously improve my skills and eventually contribute to professional projects that make a difference.
 
