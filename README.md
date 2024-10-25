@@ -15,9 +15,9 @@ I'm currently learning HTML, CSS and JavaScript through structured/guided learni
 
 ## 📫 Get in Touch with Me:
 
-- - LinkedIn: [Chijioke-Nwabasili](https://www.linkedin.com/in/chijioke-nwabasili)
-- - Twitter: [CJNwabasili](https://www.x.com/CJNwabasili_)
-- - [Email Address](chijioke.nwabasili2021@gmail.com)
+-  LinkedIn: [Chijioke-Nwabasili](https://www.linkedin.com/in/chijioke-nwabasili)
+-  Twitter: [CJNwabasili](https://www.x.com/CJNwabasili_)
+-  [Email Address](chijioke.nwabasili2021@gmail.com)
 
 ## Collaboration:
 
