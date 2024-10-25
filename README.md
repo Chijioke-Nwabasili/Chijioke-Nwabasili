@@ -11,7 +11,7 @@ I'm currently learning HTML, CSS and JavaScript through structured/guided learni
 ## 🔧 Technologies & Tools:
 
 - Languages: HTML, CSS, JavaScript
-- Tools: Git, GitHub, VS Code
+- Tools: Git and GitHub
 
 ## 📫 Get in Touch with Me:
 
