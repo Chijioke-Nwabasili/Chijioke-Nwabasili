@@ -8,12 +8,12 @@ My name is Chijioke Nwabasili. I'm an aspiring Front-end Web Developer with a st
 
 I'm currently learning HTML, CSS and JavaScript through structured/guided learning resources and project-based challenges. My goal is to continuously improve my skills and eventually contribute to professional projects that make a difference.
 
-## 🔧 Technologies & Tools:
+## Technologies & Tools:
 
 - Languages: HTML, CSS, JavaScript
 - Tools: Git and GitHub
 
-## 📫 Get in Touch with Me:
+## Get in Touch with Me:
 
 -  LinkedIn: [Chijioke-Nwabasili](https://www.linkedin.com/in/chijioke-nwabasili)
 -  Twitter: [CJNwabasili](https://www.x.com/CJNwabasili_)
